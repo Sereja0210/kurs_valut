@@ -1,0 +1,20 @@
+{
+  "name": "react-yandex-maps-issue-130",
+  "version": "1.0.0",
+  "description": "https://github.com/gribnoysup/react-yandex-maps/issues/130",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.7.0",
+    "react-dom": "16.7.0",
+    "react-yandex-maps": "3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
